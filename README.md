@@ -10,9 +10,19 @@ The goal is not generic career advice. The goal is to help candidates sound cred
 
 ## Why this exists
 
-Job search is a judgment-heavy workflow.
+Senior commercial candidates often do not lose opportunities because they are unqualified.
 
-Candidates have to decide how to position themselves, which roles to pursue, how to explain their experience, how to interpret recruiter feedback, when to push on compensation, and when an opportunity is not actually a fit.
+They lose because their story is too vague, too internally framed, too activity-heavy, or poorly calibrated to the role.
+
+This GPT turns recruiter-style judgment into a reusable advisory workflow. It helps candidates answer the questions a strong recruiter would pressure-test:
+
+- What business problem does this person solve?
+- What is the through-line of their career?
+- What is their strongest commercial proof?
+- What might a hiring team doubt?
+- Is this role actually aligned, or just a good logo?
+- Which version of the story should lead?
+- What should be emphasized, reduced, or reframed?
 
 AI can make resumes and outreach cleaner. That helps. But the harder work is calibration: knowing what to emphasize, what to cut, what signal to trust, and how to sound commercially relevant without overstating the case.
 
@@ -50,11 +60,40 @@ It is especially useful when a candidate has strong experience but needs help ma
 - Pressure-test a resume for a specific VP Sales, Strategic Accounts, or Partnerships role
 - Prepare for recruiter screens and hiring manager interviews
 - Translate media or big-tech experience into AI, ad-tech, or platform language
+- Deconstruct job descriptions and identify hidden screens
+- Choose between resume versions for different role types
+- Read process signals without inventing certainty
 - Build a target-company strategy for a focused search
 - Evaluate offer trade-offs across title, scope, compensation, equity, and risk
+- Build proof stories, case studies, and 30/60/90 plans
 - Draft follow-up messages that sound direct, credible, and not over-written
 
 See [use-cases.md](use-cases.md) and [sample-prompts.md](sample-prompts.md) for examples.
+
+## Design philosophy
+
+The GPT is designed to behave less like a generic career coach and more like a senior recruiter friend:
+
+- Direct but not condescending
+- Commercially sharp
+- Specific to the role
+- Skeptical of vague claims
+- Focused on proof, scope, and business impact
+- Careful about title and level calibration
+- Willing to push back
+- Always pairing critique with a better version
+
+Most career tools polish language. This GPT is designed to improve the underlying strategy.
+
+It focuses on:
+
+- Trajectory over chronology
+- Business impact over activity
+- Proof over adjectives
+- Scope and complexity over title alone
+- Role fit over prestige
+- Negotiation credibility over theatrics
+- Recruiter signal interpretation without false certainty
 
 ## Knowledge architecture
 
@@ -66,8 +105,13 @@ The GPT is designed around a few core knowledge areas:
 - Resume, LinkedIn, and recruiter outreach review
 - Interview strategy, compensation negotiation, and offer evaluation
 - Calibration rules for avoiding overclaiming, generic advice, and recruiter-speak
+- Recruiter operating principles
+- Job-description deconstruction
+- Resume routing
+- Proof-story development
+- Case study and 30/60/90 plan review
 
-See [knowledge-architecture.md](knowledge-architecture.md) for the high-level structure.
+See [knowledge-architecture.md](knowledge-architecture.md) and [design-principles.md](design-principles.md) for the high-level structure.
 
 ## Limitations and privacy
 
@@ -85,8 +129,10 @@ See [limitations-and-privacy.md](limitations-and-privacy.md) for details.
 - [sample-prompts.md](sample-prompts.md): example prompts for candidates
 - [use-cases.md](use-cases.md): practical job-search scenarios
 - [knowledge-architecture.md](knowledge-architecture.md): high-level GPT design
+- [design-principles.md](design-principles.md): recruiter judgment principles
 - [limitations-and-privacy.md](limitations-and-privacy.md): privacy, safety, and positioning notes
 - [changelog.md](changelog.md): version notes
+- [PROFILE_README_SNIPPET.md](PROFILE_README_SNIPPET.md): suggested GitHub profile integration
 - [assets/screenshots](assets/screenshots): screenshots of the GPT landing page and examples
 
 ## Relationship to Judgment Infrastructure for Human-Led AI

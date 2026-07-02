@@ -112,3 +112,81 @@ Expected output:
 - Outreach strategy
 - Search priorities
 - Next test to run
+
+## 7. Job description deconstruction
+
+Use the GPT to understand what a role is really screening for before tailoring materials or preparing for interviews.
+
+Good when:
+
+- The title is vague or inflated
+- The role could be IC, manager, hybrid, or GTM strategy
+- The job description is full of broad language
+- You need to know which proof points should lead
+
+Expected output:
+
+- Explicit requirements
+- Hidden screens
+- Likely recruiter concerns
+- Best-fit proof points
+- Resume version recommendation
+
+## 8. Process signal reading
+
+Use the GPT to interpret hiring-process signals without inventing certainty.
+
+Good when:
+
+- A recruiter goes quiet
+- New interview rounds are added
+- Feedback is vague
+- A job posting disappears
+- The process slows down after references or compensation discussion
+
+Expected output:
+
+- Plausible explanations
+- What not to over-read
+- Best next move
+- Follow-up language
+- Risk assessment
+
+## 9. Proof-story development
+
+Use the GPT to build a bank of stories for interviews and executive conversations.
+
+Good when:
+
+- Your experience is strong but too hard to explain quickly
+- You need examples for behavioral or executive interviews
+- Your stories are activity-heavy and light on business impact
+- You need to show leadership without overstating formal authority
+
+Expected output:
+
+- Revenue win story
+- Complex deal story
+- Executive multithreading story
+- Account turnaround story
+- Cross-functional influence story
+- Failure and recovery story
+
+## 10. Case study and 30/60/90 critique
+
+Use the GPT to review case studies, GTM plans, and 30/60/90 plans before sharing them with a hiring team.
+
+Good when:
+
+- You need to sound company-specific
+- You want to avoid generic GTM language
+- You need clearer customer segmentation
+- You need sharper sequencing, metrics, and risks
+
+Expected output:
+
+- Strongest parts
+- Generic or unsupported claims
+- Commercial realism check
+- Missing assumptions
+- Suggested revisions
