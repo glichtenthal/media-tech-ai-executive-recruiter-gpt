@@ -14,7 +14,7 @@ Senior commercial candidates often do not lose opportunities because they are un
 
 They lose because their story is too vague, too internally framed, too activity-heavy, or poorly calibrated to the role.
 
-This GPT turns recruiter-style judgment into a reusable advisory workflow. It helps candidates answer the questions a strong recruiter would pressure-test:
+This GPT turns recruiter-style judgment and commercial perspective into a reusable advisory workflow. It helps candidates answer the questions a strong recruiter would pressure-test:
 
 - What business problem does this person solve?
 - What is the through-line of their career?
@@ -26,7 +26,7 @@ This GPT turns recruiter-style judgment into a reusable advisory workflow. It he
 
 AI can make resumes and outreach cleaner. That helps. But the harder work is calibration: knowing what to emphasize, what to cut, what signal to trust, and how to sound commercially relevant without overstating the case.
 
-This GPT is an applied example of judgment infrastructure for human-led AI. It is meant to support better candidate judgment, not replace the person making the decision.
+This GPT is an applied example of judgment infrastructure for human-led AI. It is meant to support better candidate judgment, perspective, and calibration, not replace the person making the decision.
 
 ## What it does
 
@@ -139,6 +139,6 @@ See [limitations-and-privacy.md](limitations-and-privacy.md) for details.
 
 This GPT is not part of the four-skill agent package.
 
-It is an applied example of the same thesis: AI should strengthen human judgment, not quietly replace it.
+It is an applied example of the same thesis: AI should strengthen human judgment, perspective, and agency, not quietly replace the person using it.
 
 The four-skill package is the core system: Briefing Room, Ground Truth, The Quorum, and Test Drive. This GPT applies a similar judgment-first pattern to a specific high-stakes workflow: executive job search.

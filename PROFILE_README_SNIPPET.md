@@ -9,8 +9,8 @@ Suggested placement: below the core Judgment Infrastructure for Human-Led AI cat
 A custom GPT for recruiter-style coaching across media, technology,
 ad-tech, and AI business-side roles.
 It applies the same judgment-first pattern to job search: sharpen the
-positioning, pressure-test the materials, prepare for consequential
-conversations, and evaluate trade-offs before acting.
+positioning, pressure-test the materials, add recruiter perspective,
+prepare for consequential conversations, and evaluate trade-offs before acting.
 
 - [Repository](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)
 ```
