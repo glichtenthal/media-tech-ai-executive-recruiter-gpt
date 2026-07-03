@@ -8,6 +8,10 @@ The goal is not generic career advice. The goal is to help candidates sound cred
 
 **Try the GPT:** [Media, Tech & AI Executive Recruiter](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter)
 
+## Preview
+
+![Media, Tech & AI Executive Recruiter GPT landing page](assets/screenshots/gpt-landing-page.png)
+
 ## Why this exists
 
 Senior commercial candidates often do not lose opportunities because they are unqualified.

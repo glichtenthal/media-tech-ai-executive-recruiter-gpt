@@ -1,5 +1,9 @@
 # Screenshots
 
+Included:
+
+- [GPT landing page](gpt-landing-page.png)
+
 Add screenshots of:
 
 - GPT landing page
