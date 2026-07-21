@@ -2,11 +2,10 @@
 
 Included:
 
-- [GPT landing page](gpt-landing-page.png)
+- [GPT landing page](gpt-landing-page.png), refreshed for v1.0 on July 21, 2026
 
-Add screenshots of:
+Future screenshots may include:
 
-- GPT landing page
 - Example prompt
 - Example response with sensitive information removed
 

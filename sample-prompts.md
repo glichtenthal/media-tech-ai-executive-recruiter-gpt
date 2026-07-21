@@ -2,6 +2,16 @@
 
 Use these prompts as starting points. Replace bracketed text with your own role, company, or context.
 
+## First session
+
+```text
+I’m considering a job search but I’m not sure what role to target. Where should we start?
+```
+
+```text
+I have [years] in [field] and want to target [role]. Separate what you know from potential bridges, then tell me what proof you still need before writing my positioning.
+```
+
 ## Positioning
 
 ```text
@@ -116,6 +126,10 @@ Pressure-test this OTE. What quota, territory, ramp, and attainment questions sh
 
 ```text
 I would be leaving unvested equity. Help me frame a make-whole ask without overplaying my hand.
+```
+
+```text
+I would leave $[amount] of equity over the next [period]. Underwrite whether I should request a make-whole, what information changes the value, and how to ask without inventing enthusiasm or a commitment to accept.
 ```
 
 ## Process signal reading

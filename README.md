@@ -12,6 +12,19 @@ The goal is not generic career advice. The goal is to help candidates sound cred
 
 ![Media, Tech & AI Executive Recruiter GPT landing page](assets/screenshots/gpt-landing-page.png)
 
+## What makes v1.0 different
+
+The GPT is built around explicit operating rules rather than a broad instruction to “act like a recruiter.”
+
+- A hard evidence gate stops sparse inputs from turning into invented candidate narratives.
+- Seven task modes route resume, role-fit, interview, offer, search, message, and process-signal work through different workflows.
+- The Recruiter Signal Map separates the hiring thesis, evidence, risks, role reality, verdict, and next move.
+- Offer Underwrite evaluates realistic cash, quota, territory, equity, scope, and downside rather than repeating stated OTE.
+- Research rules require current official role links, verification dates, disclosed compensation, and a clear split between facts and ranking judgment.
+- Message rules preserve the user's supplied sentiment without manufacturing enthusiasm, urgency, deadlines, or willingness to accept.
+
+See the [v1.0 release snapshot](release/v1.0/README.md), [validation results](release/v1.0/release-validation.md), and [representative outputs](example-outputs.md).
+
 ## Why this exists
 
 Senior commercial candidates often do not lose opportunities because they are unqualified.
@@ -136,6 +149,8 @@ See [limitations-and-privacy.md](limitations-and-privacy.md) for details.
 - [design-principles.md](design-principles.md): recruiter judgment principles
 - [limitations-and-privacy.md](limitations-and-privacy.md): privacy, safety, and positioning notes
 - [changelog.md](changelog.md): version notes
+- [example-outputs.md](example-outputs.md): shortened examples from v1.0 validation
+- [release/v1.0](release/v1.0): published instructions, knowledge manifest, and release validation
 - [PROFILE_README_SNIPPET.md](PROFILE_README_SNIPPET.md): suggested GitHub profile integration
 - [assets/screenshots](assets/screenshots): screenshots of the GPT landing page and examples
 
