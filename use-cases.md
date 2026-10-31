@@ -1,8 +1,10 @@
 # Use Cases
 
+Public design summary and examples for the original GPT and current plugin. See [product history and availability](README.md#product-history-and-availability); the plugin is private at version 0.67.0. This document does not distribute its implementation. Example situations are fictional or templates; use only information you are authorized to share.
+
 ## 1. Candidate positioning
 
-Use the GPT to turn a broad career history into a focused narrative for a specific market or role type.
+Use the assistant to turn a broad career history into a focused narrative for a specific market or role type.
 
 Good when:
 
@@ -21,7 +23,7 @@ Expected output:
 
 ## 2. Resume and LinkedIn review
 
-Use the GPT to review whether your materials sound credible, specific, and aligned to the role.
+Use the assistant to review whether your materials sound credible, specific, and aligned to the role.
 
 Good when:
 
@@ -40,7 +42,7 @@ Expected output:
 
 ## 3. Interview preparation
 
-Use the GPT to prepare for recruiter screens, hiring manager interviews, panel interviews, and executive conversations.
+Use the assistant to prepare for recruiter screens, hiring manager interviews, panel interviews, and executive conversations.
 
 Good when:
 
@@ -59,7 +61,7 @@ Expected output:
 
 ## 4. Recruiter outreach and follow-up
 
-Use the GPT to draft short, credible messages that make the fit easy to understand.
+Use the assistant to draft short, credible messages that make the fit easy to understand.
 
 Good when:
 
@@ -77,7 +79,7 @@ Expected output:
 
 ## 5. Offer evaluation and negotiation
 
-Use the GPT to think through role scope, compensation, equity, title, risk, manager quality, and long-term career value.
+Use the assistant to think through role scope, compensation, equity, title, risk, manager quality, and long-term career value.
 
 Good when:
 
@@ -96,7 +98,7 @@ Expected output:
 
 ## 6. Search strategy
 
-Use the GPT to narrow the search instead of chasing every plausible role.
+Use the assistant to narrow the search instead of chasing every plausible role.
 
 Good when:
 
@@ -115,7 +117,7 @@ Expected output:
 
 ## 7. Job description deconstruction
 
-Use the GPT to understand what a role is really screening for before tailoring materials or preparing for interviews.
+Use the assistant to understand what a role is really screening for before tailoring materials or preparing for interviews.
 
 Good when:
 
@@ -134,7 +136,7 @@ Expected output:
 
 ## 8. Process signal reading
 
-Use the GPT to interpret hiring-process signals without inventing certainty.
+Use the assistant to interpret hiring-process signals without inventing certainty.
 
 Good when:
 
@@ -154,7 +156,7 @@ Expected output:
 
 ## 9. Proof-story development
 
-Use the GPT to build a bank of stories for interviews and executive conversations.
+Use the assistant to build a bank of stories for interviews and executive conversations.
 
 Good when:
 
@@ -174,7 +176,7 @@ Expected output:
 
 ## 10. Case study and 30/60/90 critique
 
-Use the GPT to review case studies, GTM plans, and 30/60/90 plans before sharing them with a hiring team.
+Use the assistant to review case studies, GTM plans, and 30/60/90 plans before sharing them with a hiring team.
 
 Good when:
 

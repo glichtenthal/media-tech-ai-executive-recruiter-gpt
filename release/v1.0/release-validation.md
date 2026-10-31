@@ -1,6 +1,6 @@
 # v1.0 Release Validation
 
-Validated July 21, 2026.
+Historical record dated July 21, 2026. These are previously reported custom-GPT results; they were not independently rerun or re-scored for the October 31 documentation update. They do not establish current public access, current plugin behavior, or a GPT-6.1 integration benchmark. See the [current testing summary](../../testing.md).
 
 ## Method
 

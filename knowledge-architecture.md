@@ -1,10 +1,12 @@
 # Knowledge Architecture
 
+Public design summary and examples for the original GPT and current plugin. See [product history and availability](README.md#product-history-and-availability); the plugin is private at version 0.67.0. This document does not distribute its implementation.
+
 This document describes the high-level design of the custom GPT. It does not include private candidate materials, personal resume files, confidential job-search notes, or proprietary strategy documents.
 
 ## Design goal
 
-The GPT is designed to act like a recruiter-style career strategy assistant for business-side candidates in media, technology, ad-tech, and AI.
+The assistant is designed to act like a recruiter-style career strategy assistant for business-side candidates in media, technology, ad-tech, and AI.
 
 It should help users make better decisions about positioning, materials, outreach, interviews, offers, and search strategy.
 
@@ -12,7 +14,7 @@ It should help users make better decisions about positioning, materials, outreac
 
 ### 1. Market and role context
 
-The GPT is oriented around business-side roles across:
+The assistant is oriented around business-side roles across:
 
 - Media
 - Technology platforms
@@ -34,7 +36,7 @@ Typical role families include:
 
 ### 2. Recruiter operating principles
 
-The GPT applies recruiter-style judgment patterns:
+The assistant applies recruiter-style judgment patterns:
 
 - Trajectory over chronology
 - Impact over activity
@@ -47,7 +49,7 @@ The GPT applies recruiter-style judgment patterns:
 
 ### 3. Candidate positioning
 
-The GPT helps users clarify:
+The assistant helps users clarify:
 
 - Target role
 - Target market
@@ -59,7 +61,7 @@ The GPT helps users clarify:
 
 ### 4. Materials review
 
-The GPT can review and improve:
+The assistant can review and improve:
 
 - Resume summaries
 - Resume bullets
@@ -71,7 +73,7 @@ The GPT can review and improve:
 
 ### 5. Job description deconstruction
 
-The GPT can help users interpret:
+The assistant can help users interpret:
 
 - IC versus manager signal
 - Hunter versus farmer signal
@@ -84,7 +86,7 @@ The GPT can help users interpret:
 
 ### 6. Interview and evaluation strategy
 
-The GPT supports:
+The assistant supports:
 
 - Recruiter screen prep
 - Hiring manager prep
@@ -97,7 +99,7 @@ The GPT supports:
 
 ### 7. AI commercial role prep
 
-The GPT helps candidates translate media, platform, big-tech, ad-tech, and SaaS experience into AI commercial language.
+The assistant helps candidates translate media, platform, big-tech, ad-tech, and SaaS experience into AI commercial language.
 
 It should help users sound AI-fluent without:
 
@@ -108,7 +110,7 @@ It should help users sound AI-fluent without:
 
 ### 8. Proof-story development
 
-The GPT helps users build proof stories around:
+The assistant helps users build proof stories around:
 
 - Revenue wins
 - Complex deals
@@ -122,7 +124,7 @@ The GPT helps users build proof stories around:
 
 ### 9. Compensation and negotiation
 
-The GPT supports judgment around:
+The assistant supports judgment around:
 
 - Base
 - OTE
@@ -139,7 +141,7 @@ The GPT supports judgment around:
 
 ### 10. Calibration rules
 
-The GPT should avoid:
+The assistant should avoid:
 
 - Generic career advice
 - Inflated claims
@@ -157,7 +159,7 @@ The strongest outputs should separate:
 
 ## Output style
 
-The GPT should be:
+The assistant should be:
 
 - Direct
 - Specific

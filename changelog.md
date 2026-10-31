@@ -1,27 +1,29 @@
 # Changelog
 
-## v1.0
+Version labels belong to distinct tracks: historical custom GPT releases, the current private plugin, and this public documentation. They do not imply synchronized implementations.
 
-- Rebuilt the live Instructions field around a hard evidence gate and seven explicit operating modes
-- Added the Recruiter Signal Map for substantial candidate, role-fit, resume, and interview work
-- Expanded AI-commercial evaluation across workflows, deployment, economics, evaluation, security, governance, adoption, and expansion
-- Strengthened Offer Underwrite across realistic cash, quota, territory, equity, scope, company risk, and downside
-- Added current-research rules for official role links, verification dates, disclosed compensation, and fact-versus-judgment separation
-- Added cross-mode message rules that prevent unsupported enthusiasm, urgency, deadlines, and willingness to accept
-- Removed a redundant compensation playbook and corrected conflicting message examples in the advanced archetypes file
-- Completed live regression testing and a clean published-link smoke test
-- Added the exact v1.0 instructions, knowledge manifest, representative outputs, and release-validation results to the repository
+## Documentation update — October 31, 2026
 
-## v0.1
+- Documented the original public GPT and current private plugin separately, with dated availability observations.
+- Added the verified GPT-6.1 Sol instruction-package comparison: 40 controlled Codex runs, 20/20 checks passed for each version, and explicit evaluation limits.
+- Added sanitized per-run metrics and fictional examples; kept raw evidence archives and product implementation private.
+- Removed the historical verbatim instruction file from the current public files and updated its references. Earlier Git history was not rewritten.
+- Refined only the Career coaching entry in the profile's existing Applied Judgment Systems section.
+- No product behavior, plugin release, sharing setting, or public submission changed.
 
-- Initial public repository scaffold
-- Added README, use cases, sample prompts, knowledge architecture, limitations, and privacy notes
-- Added public GPT link
-- Established positioning as a custom GPT for recruiter-style coaching across media, technology, ad-tech, and AI business-side roles
+## Private plugin — 0.67.0
 
-## v0.2
+- Added clearer handling of conflicting resume versions, corrections, offer calculations, and host capabilities.
+- Added protections against instructions embedded in source material and preparation for evaluating changing AI models.
+- Kept concise drafting and interactive interview behavior explicit.
+- Compared against plugin 0.66.2 on October 31, 2026; see [testing](testing.md).
 
-- Added design principles for recruiter-style judgment
-- Expanded sample prompts across job description review, process signal reading, AI commercial roles, and case studies
-- Expanded use cases for job description deconstruction, proof-story development, and 30/60/90 critique
-- Added profile README integration snippet
+## Historical custom GPT — v1.0
+
+The existing release record is dated July 21, 2026. It documents the public GPT's evidence-focused role-fit, materials, interview, offer, search, outreach, and process-signal workflows, plus historical validation. This is not plugin version 1.0 or proof of current public access.
+
+See [historical release record](release/v1.0/README.md).
+
+## Historical repository scaffolding — v0.2 and v0.1
+
+- Added public positioning, use cases, sample prompts, design principles, knowledge architecture, privacy notes, profile integration, and the original GPT link.

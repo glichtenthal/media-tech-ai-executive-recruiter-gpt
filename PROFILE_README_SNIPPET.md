@@ -1,16 +1,11 @@
 # Profile README Snippet
 
-Suggested placement: below the core Judgment Infrastructure for Human-Led AI catalog and before install instructions.
+Refine the existing **Career coaching** entry inside **Applied Judgment Systems**. Preserve the rest of the profile and do not create a second section.
 
 ```markdown
-## Applied Judgment Systems
+### Career coaching
 
-**[Media, Tech & AI Executive Recruiter GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter)**:
-A custom GPT for recruiter-style coaching across media, technology,
-ad-tech, and AI business-side roles.
-It applies the same judgment-first pattern to job search: sharpen the
-positioning, pressure-test the materials, add recruiter perspective,
-prepare for consequential conversations, and evaluate trade-offs before acting.
-
-- [Repository](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)
+**[Media, Tech & AI Executive Recruiter](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)** applies recruiter-style judgment to business-side career decisions across media, technology, ad-tech, and AI: positioning, resumes, LinkedIn, interviews, offers, and search strategy. Originally launched as a public custom GPT; the current plugin is private at version **0.67.0**. [Product history, availability, and testing](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt#product-history-and-availability).
 ```
+
+The project README retains the original GPT URL with a dated availability caveat. The profile links to that public documentation rather than advertising a private plugin as installable.

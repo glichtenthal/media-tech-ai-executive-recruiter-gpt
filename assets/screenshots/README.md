@@ -1,18 +1,5 @@
-# Screenshots
+# Historical Screenshots
 
-Included:
+- [Original GPT landing page](gpt-landing-page.png): historical July 2026 custom-GPT preview, retained after review for personal career material.
 
-- [GPT landing page](gpt-landing-page.png), refreshed for v1.0 on July 21, 2026
-
-Future screenshots may include:
-
-- Example prompt
-- Example response with sensitive information removed
-
-Do not include:
-
-- Personal resume details
-- Private job-search notes
-- Compensation details
-- Company-confidential information
-- Contact information
+The image does not establish current availability, a current default model, or access to the private plugin. It contains no resume, personal job-search discussion, or compensation record. Do not add private account screens, personal candidate records, proprietary instructions, or unredacted evaluation logs.

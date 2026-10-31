@@ -1,73 +1,33 @@
 # Limitations and Privacy
 
-## Not an official recruiter or OpenAI product
+See the [project README](README.md) for the complete product history, current availability, fictional examples, and verified testing summary.
 
-Media, Tech & AI Executive Recruiter is a custom GPT created by Greg Lichtenthal.
+## Product and access boundaries
 
-It is not:
+Media, Tech & AI Executive Recruiter began as a public custom GPT. The current plugin is private at version 0.67.0. The public repository documents the work; it does not grant plugin access. Access for former GPT users is not automatic. The original GPT's dated migration notice does not establish availability for every account.
 
-- An official OpenAI product
-- An official recruiter tool
-- A human recruiter
-- A legal advisor
-- A financial advisor
-- A guaranteed job-search system
-- A substitute for professional advice
+This independent project is not an official OpenAI product, recruiter service, source of insider hiring criteria, or replacement for a human recruiter. It supports decisions rather than making them for a candidate.
 
-The GPT can help users think through job-search strategy, but users remain responsible for their own decisions.
+## Accuracy and outcomes
 
-## No guaranteed outcomes
+Outputs can be wrong, incomplete, outdated, or overconfident. Verify material facts and calculations, use current authoritative sources for live openings and company claims, and distinguish proposed actions from demonstrated experience. No interview, offer, compensation, recruiter-response, or hiring outcome is guaranteed. Legal, tax, immigration, and financial matters require appropriate professional advice.
 
-The GPT cannot guarantee:
+The controlled GPT-6.1 Sol comparison tested instruction packages through Codex. It does not establish complete ChatGPT integration reliability, safety against every malicious input, or improved hiring outcomes.
 
-- Interviews
-- Offers
-- Compensation outcomes
-- Recruiter responses
-- Accuracy of market assumptions
-- Company-specific hiring decisions
+## What to share
 
-It can help sharpen the user’s thinking and materials. It cannot control hiring processes.
+Use only material you are authorized to disclose. Redact unnecessary identifiers, contact details, account information, and confidential employer context. Do not upload private third-party compensation records, sensitive interview notes, personal identifiers, or material restricted by confidentiality obligations. Public demonstrations should use fictional or properly aggregated facts.
 
-## Privacy guidance
+Host products, account settings, and connected services determine data handling and access. Review their current privacy guidance before sharing sensitive material. For ChatGPT, consult the [GPTs Data Privacy FAQ](https://help.openai.com/en/articles/8554402-gpts-data-privacy-faqs); this document does not promise that all host products have identical privacy behavior.
 
-Do not paste sensitive information unless you are comfortable using it in ChatGPT.
+## Public repository boundary
 
-Avoid sharing:
+Current public files include sanitized architecture, design principles, example prompts, fictional outputs, and reviewed metrics. They exclude proprietary instruction text, packaged knowledge files, private resumes, personal job-search records, credentials, private source repositories, raw evaluation logs, and source-snapshot archives.
 
-- Social Security numbers or government IDs
-- Personal contact details beyond what is necessary
-- Private compensation documents
-- Confidential employer information
-- Proprietary strategy documents
-- Internal company documents
-- Sensitive interview notes
-- Non-public hiring information
-- Anything covered by an NDA or confidentiality agreement
+The previously published v1.0 instruction snapshot has been removed from the current files. Earlier Git history may still contain it. This update does not rewrite history or claim to revoke previously public access to that historical material.
 
-## GPT builder visibility
+## Human control and public distribution
 
-OpenAI states that GPT builders do not receive transcripts of individual user conversations with their GPTs.
+A draft does not authorize sending a message, submitting an application, changing a public profile, contacting references, or accepting an offer. Users retain control over those actions.
 
-That said, users should still treat ChatGPT as a third-party AI product and avoid sharing more sensitive information than the task requires.
-
-For current OpenAI guidance, see:
-
-- [GPTs Data Privacy FAQ](https://help.openai.com/en/articles/8554402-gpts-data-privacy-faqs)
-- [Creating a GPT](https://help.openai.com/en/articles/8554397-creating-a-gpt)
-
-## Recommended user practice
-
-When using the GPT:
-
-- Redact names, numbers, and employer details when they are not needed
-- Summarize confidential context instead of pasting documents
-- Replace private company names with placeholders when possible
-- Use ranges instead of exact compensation details when exact numbers are not needed
-- Validate important advice with trusted humans before acting
-
-## Responsible positioning
-
-This GPT is designed to support human judgment.
-
-It should help users ask better questions, sharpen their materials, and make clearer decisions. It should not be treated as an authority on what a candidate should do.
+Preserving public access is a goal. Public plugin submission requires a separate eligibility and requirements review, preparation, and approval. This repository update does not publish a plugin release, change sharing, or modify product behavior.

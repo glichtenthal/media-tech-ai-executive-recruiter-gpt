@@ -1,33 +1,14 @@
-# v1.0 Release Snapshot
+# Historical Custom GPT v1.0 Record
 
-Published July 21, 2026.
+The existing release record dates the original public custom GPT release to **July 21, 2026**, with access then described as “Anyone with the link.” This is a historical record, not proof of current public access.
 
-This directory freezes the configuration and release evidence for the first public release of [Media, Tech & AI Executive Recruiter](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter).
+The current product discussed in the [project README](../../README.md) is a **private plugin, version 0.67.0**. GPT and plugin version tracks are distinct. Former GPT users do not automatically have access to the plugin.
 
-## Builder configuration
+This directory preserves a high-level record of the original GPT's subject areas and historical validation:
 
-- **Name:** Media, Tech & AI Executive Recruiter
-- **Description:** Recruiter-grade career strategy for senior commercial leaders across media, tech, ad tech, and AI. Get a clear read on role fit, positioning, resumes, LinkedIn, interviews, outreach, compensation, offers, hiring signals, and job search strategy.
-- **Access:** Anyone with the link
-- **Recommended model:** GPT-5.6 Thinking
-- **Enabled capabilities:** Web Search, Canvas, and Code Interpreter & Data Analysis
-- **Image generation:** Disabled
+- [Knowledge manifest](knowledge-manifest.md): historical subject-area overview; no packaged knowledge contents.
+- [Release validation](release-validation.md): historical reported checks, not newly rerun results.
 
-The exact published Instructions field is preserved in [instructions.md](instructions.md). It contains 7,990 characters in the Builder, within the 8,000-character limit.
+The original verbatim instruction snapshot is excluded from the current public files. Earlier Git history was not rewritten.
 
-## Conversation starters
-
-1. Give me the 30-second recruiter read on my resume for this role.
-2. Deconstruct this job description and tell me what they are really screening for.
-3. Help me position my background for an AI, tech, or media role.
-4. Build my interview war room for this company and interview stage.
-5. Underwrite this offer: cash, quota, equity, scope, risk, and what to negotiate.
-6. Draft a recruiter follow-up or post-interview thank-you.
-
-## Release files
-
-- [instructions.md](instructions.md): verbatim v1.0 Custom GPT instructions
-- [knowledge-manifest.md](knowledge-manifest.md): uploaded knowledge files and their purpose
-- [release-validation.md](release-validation.md): live regression results and guardrail checks
-
-The knowledge-file contents are not published here. The manifest documents the architecture without exposing private candidate material or turning reference documents into hidden behavioral rules.
+For the October 31, 2026 controlled instruction-package comparison, see [testing](../../testing.md). That comparison is separate from the original GPT's historical publication and live-link checks.

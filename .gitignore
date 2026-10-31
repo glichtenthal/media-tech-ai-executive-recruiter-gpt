@@ -1,0 +1,15 @@
+# Public documentation only: keep product implementation and personal data out.
+.env
+.env.*
+instructions/
+knowledge/
+skills/
+.codex-plugin/
+source-snapshots/
+raw-evals/
+private/
+personal/
+resumes/
+work/
+*.zip
+*.tar.gz
