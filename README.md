@@ -6,6 +6,8 @@ It is an applied example of **judgment infrastructure for human-led AI**: organi
 
 **Current plugin: private, version 0.67.0.** This public repository documents the project; it does not distribute the plugin or grant access to it.
 
+**Looking for the original recruiter?** Use the [copy-and-paste recruiter guide](RECRUITER-GUIDE.md) to assess role fit, practice an interview, or compare offers in your own ChatGPT chat.
+
 ## Product history and availability
 
 | Stage | History | Availability as checked October 31, 2026 |
