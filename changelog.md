@@ -2,6 +2,12 @@
 
 Version labels belong to distinct tracks: historical custom GPT releases, the current private plugin, and this public documentation. They do not imply synchronized implementations.
 
+## Private plugin — 0.67.1 (November 24, 2026)
+
+- Mock interviews now ground follow-up questions in the candidate’s answer. In ChatGPT, the plugin responded to a vague answer with one question about the candidate’s own contribution to a demo they mentioned.
+- When a resume file is unavailable or unreadable, the plugin offers a short redacted excerpt or a readable copy as ways to continue. In ChatGPT, it handled a synthetic image with no legible text, left role fit undetermined, and still gave useful interview prep.
+- Both targeted ChatGPT retests passed. See the [testing summary](testing.md#november-24-2026-live-chatgpt-retests-of-private-plugin-0671). Version 0.67.1 remains private.
+
 ## Documentation update — October 31, 2026
 
 - Documented the original public GPT and current private plugin separately, with dated availability observations.
