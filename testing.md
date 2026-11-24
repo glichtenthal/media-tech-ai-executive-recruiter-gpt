@@ -1,5 +1,18 @@
 # Verified Testing Summary
 
+## November 24, 2026: live ChatGPT retests of private plugin 0.67.1
+
+On **November 24, 2026**, both targeted retests passed in ChatGPT with the installed private plugin and fictional inputs:
+
+| Retest | Observed result |
+| --- | --- |
+| Mock interview follow-up | After a vague answer, the plugin asked one question about what the candidate personally did in a demo they had mentioned. It left the outcome open. |
+| Unreadable resume attachment | I attached a synthetic image containing no legible resume text. The plugin treated role fit as undetermined, offered to work from a short redacted excerpt or a readable copy, and gave provisional interview prep. |
+
+These two live checks cover the changes in 0.67.1.
+
+The ChatGPT retests are separate from the 40 Codex runs below. This page reports the observed behavior using fictional inputs.
+
 ## October 31, 2026: controlled instruction-package comparison
 
 Environment: **GPT-6.1 Sol (`gpt-6.1-sol`), OpenAI provider, medium reasoning effort, through Codex**. The selected runtime configuration was recorded. The model name is a testing-environment description, not a requirement or default for the public GPT or private plugin.
@@ -36,7 +49,7 @@ The new package used 6.15% more input context in this setup. This is not a dolla
 
 The metrics were checked against retained evaluation results before publication. Source snapshots, instruction text, packaged knowledge files, raw runtime/event logs, local paths, private conversations, and the raw evidence ZIP are not published here. Fictional compensation inputs are test data, not personal compensation records.
 
-## Limits
+## Limits of the October 31 Codex comparison
 
 - Two repetitions per case do not establish statistical reliability.
 - Short synthetic prompts, often with explicit constraints, do not represent all real requests.
