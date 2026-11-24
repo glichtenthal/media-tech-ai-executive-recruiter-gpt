@@ -4,20 +4,20 @@ Recruiter-style career strategy for business-side roles across media, technology
 
 It is an applied example of **judgment infrastructure for human-led AI**: organize the evidence, pressure-test assumptions, identify trade-offs, and help the person decide what to do next.
 
-**Current plugin: private, version 0.67.0.** This public repository documents the project; it does not distribute the plugin or grant access to it.
+**Current plugin: private, version 0.67.1.** This public repository documents the project; it does not distribute the plugin or grant access to it.
 
 **Looking for the original recruiter?** Use the [copy-and-paste recruiter guide](RECRUITER-GUIDE.md) to assess role fit, practice an interview, or compare offers in your own ChatGPT chat.
 
 ## Product history and availability
 
-| Stage | History | Availability as checked October 31, 2026 |
+| Stage | History | Availability |
 | --- | --- | --- |
 | Original custom GPT | Launched publicly for others to use. The historical v1.0 release record is dated July 21, 2026. | The [original GPT URL](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter) now shows a migration notice in the creator's signed-in session. Continued access for other users has not been independently verified. |
-| Current plugin | Media, Tech & AI Executive Recruiter, version **0.67.0**; compared with 0.66.2 in the testing below. | **Private.** Former GPT users do not automatically receive access. No public plugin release is represented by this repository. |
+| Current plugin | Media, Tech & AI Executive Recruiter, version **0.67.1**. This release improves mock interview follow-ups and recovery when a file is unreadable or missing. | **Private**, verified November 24, 2026. Former GPT users can use the [copy-and-paste guide](RECRUITER-GUIDE.md) in their own ChatGPT chats. |
 
 The original GPT page displayed “Keep using GPT” and a notice that it could be used until December 11 when checked on October 31. This is a dated observation from one authorized account, not a guarantee of continued or public access. The original URL is retained as a historical reference rather than an unconditional “Try now” link. The older screenshot below is also historical.
 
-Custom GPT release labels such as v1.0, plugin versions such as 0.67.0, and the separate private implementation's 1.2.x version history are distinct version tracks. They do not establish that all implementations contain identical behavior or are synchronized.
+Custom GPT release labels such as v1.0, plugin versions such as 0.67.1, and the separate private implementation's 1.2.x version history are distinct version tracks. They do not establish that all implementations contain identical behavior or are synchronized.
 
 Preserving public access remains a goal. Public plugin submission is a separate step requiring its own eligibility check, submission preparation, review, and approval. GitHub publication does not make the plugin publicly usable. This documentation update does not modify product behavior, sharing settings, or plugin releases.
 
@@ -55,11 +55,24 @@ See [fictional example outputs](example-outputs.md), [sample prompts](sample-pro
 
 ## Verified testing results
 
+### Live ChatGPT retests of 0.67.1
+
+On **November 24, 2026**, both targeted retests passed in ChatGPT with the installed private plugin and fictional inputs:
+
+| Retest | Observed result |
+| --- | --- |
+| Mock interview follow-up | After a vague answer, the plugin asked one question about what the candidate personally did in a demo they had mentioned. It left the outcome open. |
+| Unreadable resume attachment | I attached a synthetic image containing no legible resume text. The plugin treated role fit as undetermined, offered to work from a short redacted excerpt or a readable copy, and gave provisional interview prep. |
+
+These two live checks cover the changes in 0.67.1.
+
+### Earlier Codex comparison of 0.66.2 and 0.67.0
+
 On **October 31, 2026**, the 0.66.2 and 0.67.0 instruction packages were compared using **GPT-6.1 Sol (`gpt-6.1-sol`) at medium reasoning effort through Codex**. The runtime configuration identified the selected model and provider. GPT-6.1 Sol is described here only as the testing environment; this is not a product model requirement or a claim that the plugin selects that model.
 
 **40 controlled runs = 10 fictional cases × 2 repetitions × 2 versions.** Each run used a fresh session with the version's instructions and relevant references. Cases covered conflicting resumes, corrections, cash, payout thresholds, options, brief outreach, malicious posting text, AI-adoption interview answers, interview openings, and missing role-fit evidence.
 
-| Result | Previous 0.66.2 | Current 0.67.0 |
+| Result | 0.66.2 | 0.67.0 |
 | --- | ---: | ---: |
 | Checks passed | **20/20** | **20/20** |
 | Average response length | 62.4 words | 61.8 words |
