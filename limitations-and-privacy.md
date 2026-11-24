@@ -4,7 +4,7 @@ See the [project README](README.md) for the complete product history, current av
 
 ## Product and access boundaries
 
-Media, Tech & AI Executive Recruiter began as a public custom GPT. The current plugin is private at version 0.67.0. The public repository documents the work; it does not grant plugin access. Access for former GPT users is not automatic. The original GPT's dated migration notice does not establish availability for every account.
+Media, Tech & AI Executive Recruiter began as a public custom GPT. The current plugin is private at version 0.67.1. The public repository documents the work; it does not grant plugin access. Access for former GPT users is not automatic. The original GPT's dated migration notice does not establish availability for every account.
 
 This independent project is not an official OpenAI product, recruiter service, source of insider hiring criteria, or replacement for a human recruiter. It supports decisions rather than making them for a candidate.
 
