@@ -1,6 +1,6 @@
 # Use Cases
 
-Public design summary and examples for the original GPT and current plugin. See [product history and availability](README.md#product-history-and-availability); the plugin is private at version 0.67.0. This document does not distribute its implementation. Example situations are fictional or templates; use only information you are authorized to share.
+Public design summary and examples for the original GPT and current plugin. See [product history and availability](README.md#product-history-and-availability); the plugin is private at version 0.67.1. This document does not distribute its implementation. Example situations are fictional or templates; use only information you are authorized to share.
 
 ## 1. Candidate positioning
 
