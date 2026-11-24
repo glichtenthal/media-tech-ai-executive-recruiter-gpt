@@ -1,6 +1,6 @@
 # Knowledge Architecture
 
-Public design summary and examples for the original GPT and current plugin. See [product history and availability](README.md#product-history-and-availability); the plugin is private at version 0.67.0. This document does not distribute its implementation.
+Public design summary and examples for the original GPT and current plugin. See [product history and availability](README.md#product-history-and-availability); the plugin is private at version 0.67.1. This document does not distribute its implementation.
 
 This document describes the high-level design of the custom GPT. It does not include private candidate materials, personal resume files, confidential job-search notes, or proprietary strategy documents.
 
