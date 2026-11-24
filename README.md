@@ -71,7 +71,7 @@ The [testing summary](testing.md) and [sanitized per-run metrics](testing/gpt61-
 
 ## Limitations and privacy
 
-For plugin questions, bug reports, suggestions, or privacy requests, see [Feedback & Help](SUPPORT.md) and the [Privacy Policy](PRIVACY.md).
+For plugin questions, bug reports, suggestions, or privacy requests, see [Feedback & Help](SUPPORT.md). See also the [Privacy Policy](PRIVACY.md) and [Terms of Use](TERMS.md).
 
 - This is an independent project, not an official OpenAI product, recruiter service, or source of insider hiring information.
 - It can make mistakes, miss context, or offer weak interpretations. Verify important facts, arithmetic, current openings, and company claims before acting.
